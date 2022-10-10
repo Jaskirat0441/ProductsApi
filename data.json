@@ -1,6 +1,6 @@
 [
     {
-        "id": "thapaserialnoa",
+        "id": "jsnoa",
         "name": "iphone x",
         "company": "apple",
         "price": 6000000,
@@ -15,7 +15,7 @@
         "featured": true
     },
     {
-        "id": "thapaserialnob",
+        "id": "jsnob",
         "name": "samsung s20",
         "company": "samsung",
         "price": 5000000,
@@ -29,7 +29,7 @@
         "shipping": true
     },
     {
-        "id": "thapaserialnoc",
+        "id": "jsnoc",
         "name": "Dell Series",
         "company": "dell",
         "price": 600000,
@@ -42,7 +42,7 @@
         "category": "laptop"
     },
     {
-        "id": "thapaserialnod",
+        "id": "jsnod",
         "name": "Nokia 420",
         "company": "nokia",
         "price": 12599,
@@ -57,7 +57,7 @@
         "shipping": true
     },
     {
-        "id": "thapaserialnoe",
+        "id": "jsnoe",
         "name": "Mac Pc",
         "company": "apple",
         "price": 4000099,
@@ -71,7 +71,7 @@
         "shipping": true
     },
     {
-        "id": "thapaserialnof",
+        "id": "jsnof",
         "name": "Macbook Pro",
         "company": "apple",
         "price": 42999,
@@ -85,7 +85,7 @@
         "shipping": true
     },
     {
-        "id": "thapaserialnog",
+        "id": "jsnog",
         "name": "Asus gseries",
         "company": "asus",
         "price": 23999,
@@ -99,7 +99,7 @@
         "shipping": true
     },
     {
-        "id": "thapaserialnoh",
+        "id": "jsnoh",
         "name": "Accessories",
         "price": 1099999,
         "company": "lenova",
@@ -114,7 +114,7 @@
         "shipping": true
     },
     {
-        "id": "thapaserialnoi",
+        "id": "jsnoi",
         "name": "Iwatch",
         "price": 39999,
         "company": "apple",
@@ -127,7 +127,7 @@
         "shipping": true
     },
     {
-        "id": "thapaserialnoj",
+        "id": "jsnoj",
         "name": "user need",
         "company": "apple",
         "price": 300099,
@@ -141,7 +141,7 @@
         "category": "accessories"
     },
     {
-        "id": "thapaserialnok",
+        "id": "jsnok",
         "name": "rolex premium",
         "company": "rolex",
         "price": 999999,
@@ -154,7 +154,7 @@
         "category": "watch"
     },
     {
-        "id": "thapaserialnol",
+        "id": "jsnol",
         "name": "galaxy w20",
         "price": 311999,
         "company": "samsung",

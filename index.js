@@ -8,7 +8,7 @@ const port = process.env.PORT || 3000;
 app.use(cors());
 
 app.get("/", (req, res) => {
-  res.send("i m live");
+  res.send("Made by J.S");
 });
 
 // main api data
